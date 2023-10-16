@@ -43,3 +43,18 @@ Press 3 to Remove a Contact
 Press 4 to List the Contact
 Press 5 to Search Contact
 Press 6 to Go back
+Managing Contacts
+To add a contact, you will be asked to provide contact details, including name, date of birth, address, pet name, tags, emails, and phone numbers.
+To edit a contact, you can remove or change individual contact information or add new email/phone numbers.
+To remove a contact, it must exist, and all its information will be deleted from the file.
+Listing Contacts
+You can choose various sorting options to list contacts.
+Press 1 to list contacts by alphabetical order of names.
+Press 2 to list contacts by alphabetical order of tags.
+Press 3 to list contacts by creation date.
+Press 4 to list contacts by string length (length of entire contact info).
+Searching Contacts
+To search for contacts, enter a search string, and the application will display the number of occurrences in various categories (name, email, phone number, tags) and a list of matching contacts.
+File Storage
+Contact data is stored in a text file.
+Each contact is represented as a separate line in the file.
